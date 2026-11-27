@@ -1,0 +1,10 @@
+{
+  "name": "webnest-nexus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Webnest Studio internal business management portal",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/smoke-check.mjs"
+  }
+}

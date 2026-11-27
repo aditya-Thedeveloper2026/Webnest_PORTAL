@@ -1,0 +1,3 @@
+-- Initial categories, website price seeds, tax baseline and commission defaults
+-- are inserted by ordered migrations. Keep this file for project-specific,
+-- non-sensitive development seed data only. Never seed production passwords.

@@ -1,0 +1,15 @@
+# local browser config with environment-specific values
+frontend/config.js
+.env
+.env.*
+!.env.example
+
+# build/runtime artifacts
+.DS_Store
+Thumbs.db
+node_modules/
+coverage/
+*.log
+
+# local Supabase state
+.supabase/
